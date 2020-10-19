@@ -13,7 +13,7 @@ format below
 --
 -- Database: `education`
 --
-
+CREATE DATABASE education;
 -- --------------------------------------------------------
 
 --
